@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Janne6565/wharf-tui/releases/download/v0.1.0/wharf_0.1.0_windows_amd64.zip",
+            "bin": [
+                "wharf.exe"
+            ],
+            "hash": "ae4e858a4eebc31cb301638344a2cfdc0dfbb2abf23014d9c38db734418aa699"
+        },
+        "arm64": {
+            "url": "https://github.com/Janne6565/wharf-tui/releases/download/v0.1.0/wharf_0.1.0_windows_arm64.zip",
+            "bin": [
+                "wharf.exe"
+            ],
+            "hash": "3c29ebd4330c1f1aed8e83a2836b2f940bf15b3786a28544dd7b8849f325346c"
+        }
+    },
+    "homepage": "https://wharf.jannekeipert.de",
+    "license": "MIT",
+    "description": "Keyboard-driven terminal SSH client with a local-first encrypted vault"
+}
