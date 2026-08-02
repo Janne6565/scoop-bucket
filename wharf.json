@@ -1,19 +1,19 @@
 {
-    "version": "0.1.9",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Janne6565/wharf-tui/releases/download/v0.1.9/wharf_0.1.9_windows_amd64.zip",
+            "url": "https://github.com/Janne6565/wharf-tui/releases/download/v0.2.0/wharf_0.2.0_windows_amd64.zip",
             "bin": [
                 "wharf.exe"
             ],
-            "hash": "0c4b8ca8e2ee92d5050daf13ad8a1acb83552e65ab73afe8947ee7c12e6fb5d6"
+            "hash": "3dd29443765498e9933f26e5c591c34d5ddd2ff2e7f93da4cfac52a8ae55643b"
         },
         "arm64": {
-            "url": "https://github.com/Janne6565/wharf-tui/releases/download/v0.1.9/wharf_0.1.9_windows_arm64.zip",
+            "url": "https://github.com/Janne6565/wharf-tui/releases/download/v0.2.0/wharf_0.2.0_windows_arm64.zip",
             "bin": [
                 "wharf.exe"
             ],
-            "hash": "a78d7c2fb7c490959d3ea314adee25665215400f6deba870829cb55fded6308b"
+            "hash": "0f42c956e3ab5ce0d6ce37142983e514b72ffbe363419dec9f8d83cb18994323"
         }
     },
     "homepage": "https://wharf.jannekeipert.de",
